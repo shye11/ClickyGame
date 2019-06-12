@@ -1,97 +1,116 @@
 [
     {
       "id": 1,
-      "image": "./public/img/angelicapickles.jpeg",
+      "name": "Angelica Pickles",
+      "image": "https://vignette.wikia.nocookie.net/rugrats/images/1/19/Angelica_Pickles.png/revision/latest?cb=20130515182442",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "./public/img/arnold.jpg",
+      "name": "Arnold",
+      "image": "https://pbs.twimg.com/profile_images/431836494882287616/2iWUmoOk_400x400.jpeg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "./public/img/catdog.jpg",
+      "name": "CatDog",
+      "image": "https://i.pinimg.com/originals/83/93/7b/83937bc6e7a4bf60617b5016c64d6d89.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "./public/img/chuckiefinster.png",
+      "name": "Chuckie Finster",
+      "image": "https://vignette.wikia.nocookie.net/cartoonica/images/b/b6/Chuckie.jpg/revision/latest?cb=20110424050627",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "./public/img/cosmo.png",
+      "name": "Cosmo",
+      "image": "https://vignette.wikia.nocookie.net/non-aliencreatures/images/8/82/Cosmo_by_v1ch.png/revision/latest?cb=20170714171701",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "./public/img/dannyphantom.jpg",
+      "name": "Danny Phantom",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq109oZ1q0wDfBYatIo8gdyX2KOMDPDXD_nqnmTvdUPQ4xjMGb",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "./public/img/deedee.jpg",
+      "name": "DeeDee",
+      "image": "https://hobbydb-production.s3.amazonaws.com/processed_uploads/subject_photo/subject_photo/image/31814/1507324285-31012-4510/ce50743eb3907a463bb9ca7bf917cd2f.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "./public/img/dexter.jpg",
+      "name": "Dexter",
+      "image": "https://vignette.wikia.nocookie.net/warnerbroscartoons/images/8/8e/Dexter-dexter%27s-laboratory-main-character.png/revision/latest?cb=20160613005414",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "./public/img/helga.jpg",
+      "name": "Helga",
+      "image": "https://ih1.redbubble.net/image.575749852.3679/flat,800x800,075,f.u2.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "./public/img/lil.png",
+      "name": "Lil",
+      "image": "https://i.pinimg.com/736x/2a/79/a1/2a79a108dbab2f5a8dcdaac7c3d63de6.jpg",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "./public/img/phil.png",
+      "name": "Phil",
+      "image": "https://www.pngkey.com/png/detail/136-1363824_can-we-get-a-phil-from-rugrats-flair.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "./public/img/reggierocket.png",
+      "name": "Reggie Rocket",
+      "image": "https://ih1.redbubble.net/image.534192324.3713/flat,550x550,075,f.u12.jpg",
       "clicked": false
     },
     {
       "id": 13,
-      "image": ".public/img/samdullard.png",
+      "name": "Sam Dullard",
+      "image": "https://i.pinimg.com/736x/48/2c/a1/482ca1ac341e7fa79c88de4d27d829c1--cartoon-cartoon-cartoon-characters.jpg",
       "clicked": false
     },
     {
       "id": 14,
-      "image": "./public/img/stoopkid.png",
+      "name": "Stoop Kid",
+      "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/9/9b/Stoop_Kid.png/revision/latest?cb=20181015145936",
       "clicked": false
     },
     {
       "id": 15,
-      "image": "./public/img/susiecarmichael.jpg",
+      "name": "Susie Carmichael",
+      "image": "https://pre00.deviantart.net/f217/th/pre/f/2015/309/5/a/untitled_drawing_by_mrsonic777-d9fnx70.png",
       "clicked": false
     },
     {
       "id": 16,
-      "image": "./public/img/timmy.jpg",
+      "name": "Timmy Turner",
+      "image": "https://vignette.wikia.nocookie.net/jimmyneutron/images/1/12/Timmy_Turner2.png/revision/latest?cb=20190515171652",
       "clicked": false
     },
     {
       "id": 17,
-      "image": "./public/img/tommypickles.png",
+      "name": "Tommy Pickles",
+      "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-Rugrats-Elizabeth-Daily-Tommy-Pickles.jpg",
       "clicked": false
     },
     {
       "id": 18,
-      "image": "./public/img/twister.jpg",
+      "name": "Twister",
+      "image": "https://vignette.wikia.nocookie.net/rocketpower/images/c/cd/Twister.jpg/revision/latest/zoom-crop/width/240/height/240?cb=20150312034102",
       "clicked": false
     },
     {
       "id": 19,
-      "image": "./public/img/wanda.png",
+      "name": "Wanda",
+      "image": "https://vignette.wikia.nocookie.net/fairlyoddparents/images/d/d5/WandaFOP.png/revision/latest?cb=20190416034859&path-prefix=en",
       "clicked": false
     }
   ]
