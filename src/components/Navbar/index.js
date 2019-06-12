@@ -1,13 +1,20 @@
 import React from "react";
-import "./style.css";
+import "./Nav.css";
 
-const Navbar = props => (
-    <nav className="navbar">
-      <p className="navTitles"  title="Home">Clicky Game</p>
-      <p className="navTitles" >Status: {props.status}</p>
-      <p className="navTitles" title="Store">Score: {props.currentScore}</p>
-      <p className="navTitles" title="Contact">Top Score: {props.topScore}</p>
-    </nav>
+const Nav = props => (
+  <nav>
+    <ul>
+      <li className="brand animated lightSpeedIn">
+        <a href="/clicky-game/">{props.title}</a>
+      </li>
+
+      <li id="rw">{props.correctIncorrect}</li>
+
+      <li>Current Score: {props.score}</li>
+
+      <li>Top Score: {props.topScore}</li>
+    </ul>
+  </nav>
 );
 
-export default Navbar;
+export default Nav;
