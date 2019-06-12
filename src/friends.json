@@ -1,62 +1,97 @@
 [
     {
       "id": 1,
-      "image": "",
+      "image": "./public/img/angelicapickles.jpeg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "",
+      "image": "./public/img/arnold.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "",
+      "image": "./public/img/catdog.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "",
+      "image": "./public/img/chuckiefinster.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "",
+      "image": "./public/img/cosmo.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "",
+      "image": "./public/img/dannyphantom.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "",
+      "image": "./public/img/deedee.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "",
+      "image": "./public/img/dexter.jpg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "",
+      "image": "./public/img/helga.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "",
+      "image": "./public/img/lil.png",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "",
+      "image": "./public/img/phil.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "",
+      "image": "./public/img/reggierocket.png",
+      "clicked": false
+    },
+    {
+      "id": 13,
+      "image": ".public/img/samdullard.png",
+      "clicked": false
+    },
+    {
+      "id": 14,
+      "image": "./public/img/stoopkid.png",
+      "clicked": false
+    },
+    {
+      "id": 15,
+      "image": "./public/img/susiecarmichael.jpg",
+      "clicked": false
+    },
+    {
+      "id": 16,
+      "image": "./public/img/timmy.jpg",
+      "clicked": false
+    },
+    {
+      "id": 17,
+      "image": "./public/img/tommypickles.png",
+      "clicked": false
+    },
+    {
+      "id": 18,
+      "image": "./public/img/twister.jpg",
+      "clicked": false
+    },
+    {
+      "id": 19,
+      "image": "./public/img/wanda.png",
       "clicked": false
     }
   ]
