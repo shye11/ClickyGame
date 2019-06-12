@@ -1,7 +1,9 @@
-import React from "react";
+import React, {Component} from "react";
 import FriendCard from "./components/FriendCard";
-import Nav from "./components/Nav";
+import Nav from "./components/Navbar";
 import Wrapper from "./components/Wrapper";
+import Banner from "./components/Banner";
+// import Title from "./components/Title";
 import Container from "./Container";
 import Row from "./Row";
 import Column from "./Column";
@@ -68,18 +70,16 @@ class App extends Component {
 
   render() {
     return (
+
       <Wrapper>
+        <Banner>
+          Click on an image to earn points, but don't click on any more than once!
+        </Banner>
         <Nav
-          title="(90's Cartoons Clicky game!)"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           correctIncorrect={this.state.correctIncorrect}
         />
-
-        <Title>
-          Click on an image to earn points, but don't click on any more than once!
-        </Title>
-
         <Container>
           <Row>
             {this.state.friends.map(friend => (
